@@ -12,4 +12,35 @@ App Project for LearnTeachCode workshop
 * Library of saved images
 
 
+## Implementation Details
+
+* Inputs of the app
+  * image (object)
+  * user's edits of text (string) 
+  * data about conversions from ingredient amount to grocery list item (string)
+  * checking off boxes of grocery list items (boolean)
+* Outputs
+  * ingredient list (string)
+  * grocery list items (string)
+  * grocery list items change appearance when checked off by user
+* Variables
+  * image
+  * ingredient list
+  * grocery list items
+  * name of recipe (string)
+* Data that needs to be stored permanently
+  * ingredient list
+  * grocery list items
+  * name of recipe
+* Events
+  * button click for turning on the camera
+  * button click for taking a picture
+  * typing ingredient list
+  * clicks for checkable boxes
+  * button click for choosing to make an edit
+  * button click for choosing to "make my list"
+  * button click to save recipe
+  
+  
+
 
