@@ -1,0 +1,25 @@
+body {
+    padding: 1em; 
+    background: #F4F1DE;
+    text-align: center;
+
+}
+
+h1 {
+    color: #3D405B;
+}
+
+ol {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+button {
+    background-color: #E07A5F;
+}
+
+.large {
+    font-size: 1.5em;
+}
